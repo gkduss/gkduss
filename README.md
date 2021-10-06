@@ -1,13 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ee82ee,100:6a5acd&height=250&section=header&text=Hayeon%20Kang&fontSize=68&fontAlignY=34&desc=Security%20and%20AI%20Developer&descAlignY=55&animation=twinkling&fontColor=ffffff)
 
-## 👋 Hi There  
+## 👋 Hi There
 
+<br>
 - I majored in Business Administration and Security
 - The place I've been to 🇰🇷 🇺🇸 🇨🇭 🇮🇹 🇫🇷 🇹🇭 🇵🇭 🇯🇵 🇮🇩 🇻🇳
-  
-## 🙋‍♀️ About Me  
+<br>
 
+## 🙋‍♀️ About Me
+
+<br>
 - I'm currently learning Python, Machine Learning, Deep Learning  
+- How to reach me
+<br>
 
 <div align=center>
 
