@@ -2,14 +2,12 @@
 
 ## 👋 Hi There
 
-<br>
 - I majored in Business Administration and Security
 - The place I've been to 🇰🇷 🇺🇸 🇨🇭 🇮🇹 🇫🇷 🇹🇭 🇵🇭 🇯🇵 🇮🇩 🇻🇳
 <br>
 
 ## 🙋‍♀️ About Me
 
-<br>
 - I'm currently learning Python, Machine Learning, Deep Learning  
 - How to reach me
 <br>
