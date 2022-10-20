@@ -8,13 +8,13 @@
 
 ## 🙋‍♀️ About Me
 
-- I'm currently learning Python, Machine Learning
+- I'm currently learning Python, Webhacking
 - How to reach me
 <br>
 
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gkduss.github.io/)](https://gkduss.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cocoya_k/)](https://www.instagram.com/cocoya_k/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ha_yeonz/)](https://www.instagram.com/ha_yeonz/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gkduss.dev@gmail.com)](mailto:gkduss.dev@gmail.com)
 </div>
