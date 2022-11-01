@@ -8,7 +8,7 @@
 
 ## 🙋‍♀️ About Me
 
-- I'm currently learning Python, Webhacking
+- I'm currently learning Web hacking, Network, Python
 - How to reach me
 <br>
 
