@@ -15,7 +15,7 @@
 <div align=center>
   
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-1C1C1C?style=flat-square&logo=github&link=https://gkduss.github.io/)](https://gkduss.github.io/)
-[![Tistory Badge](http://img.shields.io/badge/-Tech%20Blog-424242?style=flat-square&logo=Tistory&link=https://gkduss.tistory.com/)](https://gkduss.tistory.com/)
+[![Tistory Badge](http://img.shields.io/badge/-Tech%20Blog-2E2E2E?style=flat-square&logo=Tistory&link=https://gkduss.tistory.com/)](https://gkduss.tistory.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ha_yeonz/)](https://www.instagram.com/ha_yeonz/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gkduss.dev@gmail.com)](mailto:gkduss.dev@gmail.com)
 </div>
