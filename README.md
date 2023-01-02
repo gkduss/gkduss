@@ -2,13 +2,13 @@
 
 ## 👋 Hi There
 
-- I majored in Security and Business Administration
+- I majored in Cyber Security and Business Administration
 - The place I've been to 🇰🇷 🇺🇸 🇨🇭 🇮🇹 🇫🇷 🇹🇭 🇵🇭 🇯🇵 🇮🇩 🇻🇳
 <br>
 
 ## 🙋‍♀️ About Me
 
-- I'm currently learning Web hacking, Network, Python
+- I'm currently learning Python, Web hacking
 - How to reach me
 <br>
 
