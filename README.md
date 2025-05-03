@@ -8,7 +8,7 @@
 
 ## 🙋‍♀️ About Me
 
-- I'm currently learning Python, Web hacking
+- I'm currently learning Endpoint Security, IAM
 - How to reach me
 <br>
 
